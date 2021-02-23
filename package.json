@@ -14,7 +14,7 @@
     "test": "mocha 'test/**/*.ts' --require ts-node/register --watch-extensions ts --watch"
   },
   "devDependencies": {
-    "prettier": "^1.18.2",
-    "typescript": "^3.6.4"
+    "prettier": "^2.2.1",
+    "typescript": "^4.1.5"
   }
 }
